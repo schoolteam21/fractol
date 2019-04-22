@@ -4,7 +4,7 @@ he based it on the Latin word fractus, meaning "broken" or "fractured".
 A fractal is an abstract mathematical object, like a curve or a surface, which has a similar
 pattern whatever the scale.
  Управелние
- 
-<br>
-<img src = "https://ibb.co/C01cCHN" width="500" height="400"></img>
-
+<!-- -->
+<!--<br>-->
+<!--<img src = "https://ibb.co/C01cCHN" width="500" height="400"></img>-->
+<a href="https://ibb.co/C01cCHN"><img src="https://i.ibb.co/q1ySqrX/fractol.jpg" alt="fractol" border="0" /></a>
